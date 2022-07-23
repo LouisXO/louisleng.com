@@ -1,0 +1,15 @@
+.main {
+  object-position: center;
+  text-align: center;
+  height: 100%;
+}
+
+h1 {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0;
+  padding-top: 10rem;
+  font-family: 'Homemade Apple', cursive;
+}

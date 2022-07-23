@@ -1,0 +1,23 @@
+.love {
+  background-color: #FFF0F5;
+}
+
+.swiper {
+  height: 100vh;
+  width: 100%;
+}
+
+.slide-pic {
+  width: 100%;
+  height: 96%;
+  object-fit: scale-down;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  color: #96E3FF;
+}
+
+.swiper-pagination-bullet-active{
+  background: #96E3FF;
+}

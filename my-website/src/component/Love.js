@@ -12,7 +12,7 @@ import './Love.css';
 
 function Love(props) {
 
-  const photos = ['pic0.jpeg', 'pic1.JPG', 'pic2.jpeg', 'pic3.JPG', 'pic4.jpg', 'pic5.png']
+  const photos = ['pic0.jpeg', 'pic1.JPG', 'pic2.jpeg', 'pic3.JPG', 'pic4.JPG', 'pic5.png']
 
   return (
     <div className="love">
